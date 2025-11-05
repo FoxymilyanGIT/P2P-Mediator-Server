@@ -1,5 +1,5 @@
 # P2P-Mediator-Server
- Peer-to-Peer connection coordinator server on C++ with Boost
+ Peer-to-Peer connection coordinator server on C++ with [Boost](https://github.com/boostorg/boost) and [UDT](https://github.com/securesocketfunneling/udt)
 
 ## План реализации проекта:
 
